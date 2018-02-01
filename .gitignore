@@ -57,7 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
-public/uploads/
+public/bundle.js
+public/bundle.js.map
+public/style.css
+public/style.css.map
 
 # netbeans editor folder
 nbproject/
